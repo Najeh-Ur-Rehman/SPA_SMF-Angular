@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "najeh",
+      "email": "najeh@yopmail.com",
+      "mobile": 7564983210,
+      "city": "pune"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
